@@ -7,7 +7,7 @@
 Simply clone and run on Raspberry Pi
 
 ```sh
-git clone https://github.com/pcbcrew/pcbcrew-raspi-spilcd
+git clone https://github.com/pcbcrew-org/pcbcrew-raspi-spilcd
 cd pcbcrew-raspi-spilcd/
 python3 example.py
 ```
